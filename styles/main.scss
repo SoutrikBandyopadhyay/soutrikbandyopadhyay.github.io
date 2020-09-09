@@ -1,0 +1,29 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Raleway";
+}
+
+.grid {
+    width: 100vw;
+    height: 100vh;
+    // border: 0.5px solid #4A4949;
+    display: grid;
+    grid-template-columns: 61.8% 9.02% 5.58% 23.6%;
+    grid-template-rows: 61.8% 9.02% 5.58% 23.6%;
+    grid-template-areas: "A B B B" "A E F C" "A E G C" "A D D C";
+}
+
+div.main {
+    grid-area: A;
+    background: rgb(45, 29, 66);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 24px;
+}
+
+span.wrap {
+    color: white;
+}

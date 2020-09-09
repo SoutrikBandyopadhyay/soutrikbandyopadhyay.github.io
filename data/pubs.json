@@ -1,0 +1,34 @@
+[{
+        "name": "Control of Single-Segment Continuum Robots: Reinforcement Learning vs. Neural Network based PID",
+        "authors": [
+            "Sudipta Chattopadhyay",
+            "Saptak Bhattacherjee",
+            "<b>Soutrik Bandyopadhyay</b>",
+            "Aparajita Sengupta",
+            "Subhasis Bhaumik"
+        ],
+        "journal": "2018 International Conference on Control, Power, Communication and Computing Technologies (ICCPCCT)",
+        "publisher": "IEEE",
+        "abstract": "Continuum robots have been very popular in the recent days due to their wide spread applications in space, defence, medical, underwater, industries etc. Modelling of these types of robots is difficult due to their highly nonlinear dynamic characteristic which necessitates the need for model-less intelligent control. In this paper two intelligent model-less adaptive methods,Reinforcement Learning (RL) and Artificial Neural Network based proportional integral derivative ANN-PID control have been applied on a hardware continuum robot. Here the RL technique involves a continuous state discrete action Q learning method and the ANN-PID is implemented by a single neuron. Performance of both the methods are compared by implementing them on a hardware robot.",
+        "year": "2018",
+        "pages": "222-226",
+        "link": "https://ieeexplore.ieee.org/abstract/document/8574225/"
+
+    },
+    {
+        "name": "Performance Analysis of Deep Q Networks and Advantage Actor Critic Algorithms in Designing Reinforcement Learning-based Self-tuning PID Controllers",
+        "authors": [
+            "Rajarshi Mukhopadhyay",
+            "<b>Soutrik Bandyopadhyay</b>",
+            "Ashoke Sutradhar",
+            "Paramita Chattopadhyay"
+        ],
+        "journal": "2019 IEEE Bombay Section Signature Conference (IBSSC)",
+        "publisher": "IEEE",
+        "abstract": "Use of Reinforcement Learning (RL) in designing adaptive self-tuning PID controllers is a relatively new horizon of research with Q-learning and its variants being the predominant algorithms found in the literature. However, the possibility of using an interesting alternative algorithm i.e. Advantage Actor Critic (A2C) in the above context is relatively unexplored. In the present study, Deep Q Networks (DQN) and A2C approaches have been employed to design self-tuning PID controllers. Comparative performance analysis of both the controllers was undertaken in a simulation environment on a servo position control system, with various static and dynamic control objectives, keeping a conventional PID controller as a baseline. A2C based Adaptive PID Controller (A2CAPID) is more promising in trajectory tracking problems whereas DQN based Adaptive PID Controller (DQNAPID) is rather suitable for systems with relatively large plant parameter variations.",
+        "year": "2019",
+        "pages": "1-6",
+        "link": "https://ieeexplore.ieee.org/abstract/document/8973068"
+
+    }
+]

@@ -1,1 +1,41 @@
-/* No CSS *//*# sourceMappingURL=main.css.map */
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Raleway";
+}
+
+.grid {
+  width: 100vw;
+  height: 100vh;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 61.8% 9.02% 5.58% 23.6%;
+      grid-template-columns: 61.8% 9.02% 5.58% 23.6%;
+  -ms-grid-rows: 61.8% 9.02% 5.58% 23.6%;
+      grid-template-rows: 61.8% 9.02% 5.58% 23.6%;
+      grid-template-areas: "A B B B" "A E F C" "A E G C" "A D D C";
+}
+
+div.main {
+  -ms-grid-row: 1;
+  -ms-grid-row-span: 4;
+  -ms-grid-column: 1;
+  grid-area: A;
+  background: #2d1d42;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: white;
+  font-size: 24px;
+}
+
+span.wrap {
+  color: white;
+}
+/*# sourceMappingURL=main.css.map */
