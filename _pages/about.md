@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 
-Hi! I am Soutrik, Ph.D. student at the [Control and Automation Group](http://control.iitd.ac.in/) of [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/). I am an inquisitive Control Theorist with research interests aligned in the domain of Reinforcement Leaning for the control of Nonlinear Systems. Before persuing my Ph.D., I completed my Master's Thesis on  
-
-
+Hi! I am Soutrik, Ph.D. student at the [Control and Automation Group](http://control.iitd.ac.in/) of [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/). My research interests lie in the domain of Reinforcement Leaning for the control of Dynamical Systems.
 
 
 
