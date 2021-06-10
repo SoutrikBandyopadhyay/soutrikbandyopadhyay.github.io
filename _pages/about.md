@@ -9,7 +9,10 @@ redirect_from:
 ---
 
 
-Hi! I am Soutrik, Ph.D. student at the [Control and Automation Group](http://control.iitd.ac.in/) of [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/). 
+Hi! I am Soutrik, Ph.D. student at the [Control and Automation Group](http://control.iitd.ac.in/) of [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/). My research interests lie in the domain of Reinforcement Leaning for the control of Dynamical Systems.
+
+
+
 
 
 <!-- 
