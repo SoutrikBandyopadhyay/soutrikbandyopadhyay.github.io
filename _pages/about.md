@@ -9,7 +9,16 @@ redirect_from:
 ---
 
 
-Hi! I am Soutrik, Ph.D. student at the [Control and Automation Group](http://control.iitd.ac.in/) of [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/). My research interests lie in the domain of Reinforcement Leaning for the control of Dynamical Systems. Prior to joining a Ph.D. program, I graduated from [Indian Institute of Engineering Science and Technology, Shibpur](https://www.iiests.ac.in/) with a Masters in Technology degree with Masters Thesis entitled "Application of Reinforcement Learning for Safe and Adaptive Control of Dynamical Systems".
+Hi! I am Soutrik, Ph.D. student at the [Control and Automation Group](http://control.iitd.ac.in/) of [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/). My research interests lie in the domain of **Reinforcement Leaning for the control of Nonlinear Systems**. Prior to joining the Ph.D. program, I graduated from [Indian Institute of Engineering Science and Technology, Shibpur](https://www.iiests.ac.in/) with an M.Tech. degree with Masters Thesis entitled "**Application of Reinforcement Learning for Safe and Adaptive Control of Dynamical Systems**".
+
+
+
+
+
+
+
+
+
 
 
 Education
