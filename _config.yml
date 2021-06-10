@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  name             : "Soutrik Bandyopadhyay"
+  avatar           : "dp2.png"
+  bio              : "Ph.D. student at Indian Institute of Technology, Delhi"
+  location         : "New Delhi, India"
+  employer         : 
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.co.in/citations?user=hwyaMt4AAAAJ&hl=en"
+  email            : "Soutrik.Bandyopadhyay@ee.iitd.ac.in"
+  researchgate     :  "https://www.researchgate.net/profile/Soutrik-Bandyopadhyay" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "SoutrikBandyopadhyay"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "soutrikbandyopadhyay"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/soutrik-band/"
+  orcid            : "http://orcid.org/0000-0002-9303-2495"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "SoutrikBand"
   vine             :
   weibo            :
   xing             :
