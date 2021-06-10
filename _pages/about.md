@@ -12,6 +12,13 @@ redirect_from:
 Hi! I am Soutrik, Ph.D. student at the [Control and Automation Group](http://control.iitd.ac.in/) of [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/). My research interests lie in the domain of Reinforcement Leaning for the control of Dynamical Systems.
 
 
+Education
+======
+
+* Ph.D. in Control Theory, [IIT Delhi](https://home.iitd.ac.in/), CGPA - 10/10 ,2025 (expected)
+
+* Dual Degree B.Tech. - M.Tech. in Electrical Engineering, [IIEST Shibpur](https://www.iiests.ac.in/), CGPA - 9.46/10 ,2020
+
 
 
 
