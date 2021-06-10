@@ -28,7 +28,7 @@ Research experience
   * Jadavpur University
   * Supervisor: Prof. Ranjit Kumar Barai, Department of Electrical Engineering
   * Fabricated an Intelligent Landmark Recognition Mobile Robot with all associated driver circuits along-with controller software written on Raspberry Pi
-  * Implemented a Fuzzy-Proportional Integral Controller from scratch in Python for the Raspberry Pi Platform to detect and navigate towards objects of interest. The resulting controller eectively migrated towards placards placed in a room and showed robust performance with respect to camera noise.
+  * Implemented a Fuzzy-Proportional Integral Controller from scratch in Python for the Raspberry Pi Platform to detect and navigate towards objects of interest. The resulting controller effectively migrated towards placards placed in a room and showed robust performance with respect to camera noise.
   
  
 Skills
