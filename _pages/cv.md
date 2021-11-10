@@ -33,17 +33,19 @@ Research experience
  
 Skills
 ======
-* Programming 
-  * Python 
+* Programming Languages 
+  * Assembly
   * C
   * C++ 
   * JavaScript
+  * LaTeX  
   * MATLAB 
-  * LaTeX 
-  * ROS
+  * Python
+  * VHDL
 * Frameworks
   * Pytorch
-  * Keras
+  * ROS
+  * TensorFlow
 
 Publications
 ======
