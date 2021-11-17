@@ -58,6 +58,10 @@ Publications
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
+Awards and Fellowships
+======
+* Prime Minister's Research Fellowship (May 2021)
+
   
 TA Experience
 ======
