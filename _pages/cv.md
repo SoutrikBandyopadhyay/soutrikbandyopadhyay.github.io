@@ -78,6 +78,12 @@ TA Experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Volunteer Experience
+======
+
+* Student Volunteer for IEEE CDC 2021, Austin, TX, USA
+
+
 Positions of Responsibility
 ======
 * Mentored Under-Graduate Students for their Summer Research Internships
