@@ -29,17 +29,17 @@ Research experience
   * Supervisor: Prof. Ranjit Kumar Barai, Department of Electrical Engineering
   * Fabricated an Intelligent Landmark Recognition Mobile Robot with all associated driver circuits along-with controller software written on Raspberry Pi
   * Implemented a Fuzzy-Proportional Integral Controller from scratch in Python for the Raspberry Pi Platform to detect and navigate towards objects of interest. The resulting controller effectively migrated towards placards placed in a room and showed robust performance with respect to camera noise.
-  
- 
+
+
 Skills
 ======
-* Programming Languages 
+* Programming Languages
   * Assembly
   * C
-  * C++ 
+  * C++
   * JavaScript
-  * LaTeX  
-  * MATLAB 
+  * LaTeX
+  * MATLAB
   * Python
   * VHDL
 * Frameworks
@@ -52,7 +52,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
@@ -65,19 +65,20 @@ Awards and Fellowships
 
 * Prime Minister's Research Fellowship (May 2021)
 
-  
-Review Experience 
+
+Review Experience
 ======
 
 * Robotics and Autonomous Systems, Elsevier
 * American Control Conference, IEEE
+* International Journal of Control, Taylor & Francis
 
 TA Experience
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Volunteer Experience
 ======
 
