@@ -71,6 +71,7 @@ Review Experience
 
 * Robotics and Autonomous Systems, Elsevier
 * American Control Conference, IEEE
+* Conference on Decision and Control, IEEE 
 * International Journal of Control, Taylor & Francis
 
 TA Experience
