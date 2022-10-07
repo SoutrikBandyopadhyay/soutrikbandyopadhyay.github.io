@@ -64,6 +64,10 @@ Awards and Fellowships
 ======
 
 * Prime Minister's Research Fellowship (May 2021)
+* Awarded **"Recommendation with Commendation"** in PMRF Annual Review, towards
+  the research performed in April 2021-May 2022; one of only 10 people
+  nation-wide for the Electrical Engineering, Electronics Engineering broad-area
+  [Link](https://www.pmrf.in/03-electrical-engineering-electronics-engineering).
 
 
 Review Experience
@@ -73,6 +77,9 @@ Review Experience
 * American Control Conference, IEEE
 * Conference on Decision and Control, IEEE 
 * International Journal of Control, Taylor & Francis
+* Transactions on Neural Networks and Learning Systems, IEEE
+* Transactions on Aerospace and Electronic Systems, IEEE
+* Automatica, Elsevier
 
 TA Experience
 ======
